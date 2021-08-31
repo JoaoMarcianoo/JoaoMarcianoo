@@ -1,6 +1,6 @@
 - 👽 Olá, eu sou João Marciano e este é meu perfil! 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-- 💡 Estudando:JAVA, HTML e CSS
+- 💡 Estudando:JAVA, JavaScript, HTML e CSS
 
 ##
 
